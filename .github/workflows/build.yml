@@ -8,7 +8,7 @@ on:
 
 jobs:
   build-midnight:
-    runs-on: macos-latest
+    runs-on: Iphone-latest
 
     steps:
       - name: Checkout repository
